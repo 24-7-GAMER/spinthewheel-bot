@@ -1,6 +1,9 @@
 {
   "name": "discord-wheel-of-names",
   "version": "1.0.0",
+  "engines": {
+  "node": "20.x"
+},
   "description": "Wheel of Names Discord Bot - Spin wheels with server members, animated GIFs, and API integration",
   "main": "index.js",
   "type": "module",
